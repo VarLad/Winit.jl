@@ -1,0 +1,7 @@
+[general]
+library_names = {"winit.h" = ":libWinit", "boxer.h" = ":libBoxer"}
+output_file_path = "../src/Winit.jl"
+module_name = "Winit"
+jll_pkg_name = "libwinit_jll"
+jll_pkg_extra = ["libboxer_jll"]
+smart_de_anonymize = true

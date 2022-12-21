@@ -1,0 +1,9 @@
+name = "Winit"
+uuid = "edfdb5be-c7f4-42cb-97a1-f609b7ca2990"
+authors = ["Chetan Vardhan <chetan.verdhan8@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+libboxer_jll = "5847ba37-b048-5c88-b501-c62f664b1471"
+libwinit_jll = "97be0fec-884d-58b1-bbbf-0a8836650f3e"
